@@ -15,5 +15,8 @@ Looking for a **student / junior position** in software development or data anal
 - **FoodHub**: information system design: Use Case and class diagrams, Access tables and queries
 - **Database Design**: relational database (ERD) implemented in MS Access with SQL queries
 
+### 🏅 Certifications
+- [SQL (Basic) – HackerRank](https://www.hackerrank.com/certificates/fbede37cfef8)
+
 ### 🌍 Languages
 Hebrew (fluent) · English (good) · Russian (native)
